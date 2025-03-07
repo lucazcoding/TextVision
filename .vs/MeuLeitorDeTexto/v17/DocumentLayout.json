@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CursoC#\\MeuLeitorDeTexto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2753A166-5CA2-48C5-94E0-A020F49D56B6}|MeuLeitorDeTexto\\MeuLeitorDeTexto.csproj|c:\\cursoc#\\meuleitordetexto\\meuleitordetexto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2753A166-5CA2-48C5-94E0-A020F49D56B6}|MeuLeitorDeTexto\\MeuLeitorDeTexto.csproj|solutionrelative:meuleitordetexto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CursoC#\\MeuLeitorDeTexto\\MeuLeitorDeTexto\\Program.cs",
+              "RelativeDocumentMoniker": "MeuLeitorDeTexto\\Program.cs",
+              "ToolTip": "C:\\CursoC#\\MeuLeitorDeTexto\\MeuLeitorDeTexto\\Program.cs",
+              "RelativeToolTip": "MeuLeitorDeTexto\\Program.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAwJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:35:45.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
