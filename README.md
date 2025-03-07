@@ -4,6 +4,7 @@
 Antes de rodar o programa, certifique-se de que:
 ✅ Você tem o .NET Framework 4.8 instalado.
 ✅ O Tesseract OCR está configurado corretamente.
+✅ Necessário instalar Tessdata.
 ✅ A pasta tessdata está no caminho correto (padrão: C:\tessdata).
 🚀 Como Executar o Programa
 1️⃣ Abra o CMD (Prompt de Comando)
