@@ -7,7 +7,7 @@ Antes de rodar o programa, certifique-se de que:
 
 ✅ O Tesseract OCR está configurado corretamente.
 
-✅ Necessário instalar Tessdata.
+✅ Você tem o Tessdata instalado.
 
 ✅ A pasta tessdata está no caminho correto (padrão: C:\tessdata).
 
